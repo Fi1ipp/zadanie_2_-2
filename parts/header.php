@@ -1,3 +1,4 @@
+<?php include_once "parts/style-css-link.php" ?>
 <header class="container main-header">
         <div>
           <a href="index.php">
